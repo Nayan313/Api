@@ -5,7 +5,7 @@
       "description": "A shapely halter dress designed with slinky crossback straps and a leg-baring slit is an elegant option for your upcoming event.",
       "img": "database/women/img (1).jpg",
       "price": "2,00,599",
-        "fetured":true
+      "featured":true
     },
     {
       "id": "2",
